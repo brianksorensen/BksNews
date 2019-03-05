@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MendyBot News</string>
+    <string name="top">Top</string>
+    <string name="newest">Newest</string>
+    <string name="about">About</string>
+    <string name="content_authority">org.mendybot.a.news</string>
+    <string name="title_activity_detail">Details</string>
+
+</resources>
